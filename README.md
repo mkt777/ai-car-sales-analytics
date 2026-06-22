@@ -1,3 +1,9 @@
+<h2>Dashboard Preview</h2>
+
+<p align="center">
+    <img src="images/dashboard.png" width="1000">
+</p>
+
 # AI Powered Car Sales Analytics Platform
 
 Tech Stack:
